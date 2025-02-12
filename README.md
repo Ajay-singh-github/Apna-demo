@@ -21,16 +21,16 @@ I'm a passionate web developer with a love for clean code and creative designs. 
 
 ## 📂 My Projects
 <!--
-### Project 1: [Project Name](https://github.com/Vats-shivam/InstaAnalytics)
+### Project 1: [Project Name](https://github.com/Ajay-singh-github)
 
 A brief description of your project and its features.
 
-### Project 2: [Project Name](https://github.com/Vats-shivam/project2)
+### Project 2: [Project Name](https://github.com/Ajay-singh-github)
 
 Another project description goes here.
 -->
 ## 📫 Let's Connect!
 
-- LinkedIn: [vatssshivam]([https://www.linkedin.com/in/Vatssshivam](https://www.linkedin.com/in/ajay-baghel-5673b62a6/?trk=opento_sprofile_details))
+- LinkedIn: [ajaybaghel]([https://www.linkedin.com/in/ajay-baghel-5673b62a6/?trk=opento_sprofile_details])
 
 Feel free to explore my projects and reach out. Happy coding! 🚀
